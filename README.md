@@ -1,4 +1,6 @@
 # EXPERIMENT 02: DEVELOPING A NEURAL NETWORK CLASSIFICATION MODEL
+## Name: Aravindan T
+## 
 ## AIM:
 
 To develop a neural network classification model for the given dataset.
@@ -189,11 +191,11 @@ print(le.inverse_transform(x_single_prediction))
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/714e5816-8daf-49df-8ee1-bff332a8b6b6)
+<img width="727" height="545" alt="image" src="https://github.com/user-attachments/assets/a03bfd39-9573-44aa-83ed-0995d965fc7c" />
 ### Classification Report:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/6bfd3d31-f93b-42d9-83e4-a8ec21f6a983)
+<img width="565" height="247" alt="image" src="https://github.com/user-attachments/assets/a0bcbb80-596c-4789-9f3d-d1c5e4accb50" />
 ### Confusion Matrix:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/419517ce-f97d-4f3e-af4a-977ccb0d24d4)
+<img width="210" height="111" alt="image" src="https://github.com/user-attachments/assets/43b95314-ee66-4d03-96e4-3506791a686e" />
 ### New Sample Data Prediction:
 ![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/11617352-b34c-4762-b686-39798d90c82d)
 
